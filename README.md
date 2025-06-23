@@ -7,6 +7,12 @@
     <li>MySQL</li>
 </ul>
 
+## Aims
+<ul>
+    <li>Pet historic for guardians</li>
+    <li>Auxiliary material for veterinary consultations</li>
+</ul>
+
 
 ## Functions
 
